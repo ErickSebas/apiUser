@@ -1,0 +1,8 @@
+POST http://localhost:3500/iniciar-sesion
+Content-Type: application/json
+
+{
+    "email" : "ume0028566@est.univalle.edu",
+    "password" : "1717"
+    
+}
