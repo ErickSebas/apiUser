@@ -1,0 +1,1 @@
+$env:GOOGLE_APPLICATION_CREDENTIALS="D:\PortalVentas\api-user\node-firebase-usuarios-firebase-adminsdk-hdxlq-70b0fb0713.json"
